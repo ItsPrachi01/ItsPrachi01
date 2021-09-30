@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsPrachi01
 - 👀 I’m interested in data analyst and web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on python
 
 
